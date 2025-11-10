@@ -67,11 +67,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/AnkitMishra7905/AnkitMishra7905/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
-
----
-
-⭐ **“Code. Learn. Improve. Repeat.”**  
